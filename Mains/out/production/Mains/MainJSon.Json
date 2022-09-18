@@ -1,0 +1,36 @@
+{
+  "Info": [
+    "version: 1.8.0_341",
+    "(TM) SE Runtime Environment (build 1.8.0_341-b10)",
+    "HotSpot(TM) 64-Bit Server VM (build 25.341-b10, mixed mode)",
+    "RightCopy Java{f}3bc23D2000003CF"
+  ],
+  "Download": [
+    "id: 100000",
+    "Create by: Phung Ba Tam",
+    "Group: HLT",
+    "Code: 163KJb10000000FChbDg93815l"
+  ],
+  "name": "json-server-lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}

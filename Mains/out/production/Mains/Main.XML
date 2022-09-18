@@ -1,0 +1,19 @@
+<?xml version = "1.0" encoding = "UTF-8" standalone = "no" ?>
+<Main>
+    <!DOCTYPE address
+    [
+            <!ELEMENT address (name,company,phone)>
+            <!ELEMENT name (#PCDATA)>
+            <!ELEMENT company (#PCDATA)>
+            <!ELEMENT phone (#PCDATA)>
+            ]>
+    <informaiton>
+        <id>1</id>
+        <code>163KJb10000000FChbDg93815lXML</code>
+        <Link></Link>
+        <Copy>NoCopyRight C</Copy>
+    </informaiton>
+    <database>
+        <nameOperatingSystem>BackDoor</nameOperatingSystem>
+    </database>
+</Main>
